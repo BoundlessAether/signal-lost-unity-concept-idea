@@ -1,1 +1,3 @@
 # signal-lost-unity-concept-idea
+
+A 3d first person unity game in which you travel through the ruins of earth. However you, an android model can't travel too far from the building you were created in, you are limited to the range of the signal tower on top of it or (in level) WAP routers and ethernet cables that connect your body to the server you are stored in. Go from chapter to chapter finding items that help you or usb/ssd's that hold lore and important updates to your code allowing you to unlock new areas and items. For example an RFID mod that lets you copy key cards and use your hand to unlock doors or "Hack" lower level doors.
